@@ -2,7 +2,6 @@
 
 2. +375292411537  
 rkurashevich@gmail.com  
-Telegram @roman_kurashevich
 
 3. I have experience as a quality engineer and technologist.  
 I have also been working as a photographer for 10 years.  
