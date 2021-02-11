@@ -6,9 +6,9 @@ Telegram @roman_kurashevich
 
 3. I have experience as a quality engineer and technologist.  
 I have also been working as a photographer for 10 years.  
-I want to become a frontend developer.
+I want to become a frontend developer. 
 
-4. HTML, CSS, JavaScript
+4. HTML, CSS, JavaScript, Angular
 
 5. ```html
     <div class="slider_wrap">
