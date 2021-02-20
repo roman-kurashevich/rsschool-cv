@@ -1,0 +1,53 @@
+header h1{
+    text-align: center;
+}
+h2 {
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.034);
+}
+h4 {
+    font-weight: 100;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.555);
+}
+main {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.027);
+    border-radius: 20px;
+}
+aside {
+    background: rgba(0, 0, 0, 0.144);
+    border-radius: 20px 0px 0px 20px;
+}
+article {
+    display: flex;
+    flex-direction: column;
+    padding-right: 30px;
+    margin-left: 30px;
+}
+main img {
+    width: 250px;
+    border-radius: 20px 0px 0px 0px;
+    margin: 0 auto;
+}
+p a {
+    text-decoration: none;
+    color: rgb(21, 21, 240);
+}
+footer {
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+
+}
+.footer_icon {
+    height: 50px;
+}
+footer small {
+    text-transform: uppercase;
+}
